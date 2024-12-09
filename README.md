@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile Views](https://profile-counter.glitch.me/efmanu/count.svg)
 
 <!--
 **efmanu/efmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
