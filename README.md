@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile View Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.your-repo-name)
+![Profile View Count](https://visitor-badge.laobi.icu/badge?page_id=efmanu.efmanu)
 
 <!--
 **efmanu/efmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
